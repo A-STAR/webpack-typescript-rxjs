@@ -1,0 +1,22 @@
+{
+  "name": "webpack-typescript-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.8",
+    "ts-loader": "^4.1.0",
+    "typescript": "^2.8.1",
+    "webpack": "^4.4.1",
+    "webpack-dev-server": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.13"
+  }
+}
